@@ -1,1 +1,1 @@
-The code performs sentiment analysis using vader and roberta nltk libs models.
+This project aims to perform sentiment analysis on Amazon reviews using two different approaches: VADER (valence-aware dictionary and sentiment Reasoner) and a pre-trained RoBERTa (Robustly optimized BERT approach) model
